@@ -16,8 +16,8 @@ This project creates an interactive animation that abstractly recreates the "Whe
 
 ## Individual Approach to Animating the Group Code
 
-### Chosen Driver: Interaction
-I chose to drive my individual code primarily through user interaction, specifically mouse movements and keyboard presses. This makes the animation highly interactive and responsive to user actions.
+### Chosen Driver: User Input (Interaction)
+I chose to drive my individual code primarily through user input (interaction), specifically mouse movements and keyboard presses. This makes the animation highly interactive and responsive to user actions.
 
 ### Animated Properties
 1. **Explosion Effect**: When the mouse hovers over a circle, it explodes into fireworks.
@@ -27,7 +27,7 @@ I chose to drive my individual code primarily through user interaction, specific
 ### Uniqueness
 My animation is unique in the following ways:
 1. **Interactive Explosions**: The primary interaction is driven by mouse movements and spacebar presses, making the animation highly engaging.
-2. **Visual Effects**: Each circle can display multiple visual effects, including concentric circles, surrounding ellipses, filled circles, and zigzag lines.
+2. **Visual Effects**: Each circle can display multiple visual effects and changes of color, including concentric circles, surrounding ellipses, filled circles, and zigzag lines.
 3. **Dynamic Lines**: Extension lines from each circle center to the mouse cursor create a dynamic visual effect.
 
 ## References to Inspiration
