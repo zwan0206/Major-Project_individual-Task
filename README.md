@@ -36,7 +36,7 @@ My animation is unique in the following ways:
 1. **Fireworks**: My inspiration comes from the visual effects of fireworks. The smooth transitions and explosion effects are directly influenced by real-world fireworks and artistic representations of fireworks.
 
 ![Firework Art](Group%20Assignment/assets/Firework%20Art.jpg)
-![Firework](Group%20Assignment/assets/Firework.PNG)
+![Firework](Group%20Assignment/assets/Firework1.jpg)
 ![Firework](Group%20Assignment/assets/Firework.jpg)
 
    
